@@ -1,0 +1,14 @@
+D:\Program Files\repos\IF-Else\IF-Else\bin\Debug\net8.0\IF-Else.exe
+D:\Program Files\repos\IF-Else\IF-Else\bin\Debug\net8.0\IF-Else.deps.json
+D:\Program Files\repos\IF-Else\IF-Else\bin\Debug\net8.0\IF-Else.runtimeconfig.json
+D:\Program Files\repos\IF-Else\IF-Else\bin\Debug\net8.0\IF-Else.dll
+D:\Program Files\repos\IF-Else\IF-Else\bin\Debug\net8.0\IF-Else.pdb
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.AssemblyInfoInputs.cache
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.AssemblyInfo.cs
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.csproj.CoreCompileInputs.cache
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.dll
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\refint\IF-Else.dll
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.pdb
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\IF-Else.genruntimeconfig.cache
+D:\Program Files\repos\IF-Else\IF-Else\obj\Debug\net8.0\ref\IF-Else.dll
