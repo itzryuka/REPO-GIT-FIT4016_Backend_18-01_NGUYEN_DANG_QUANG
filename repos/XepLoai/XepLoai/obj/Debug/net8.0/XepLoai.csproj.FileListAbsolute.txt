@@ -1,0 +1,14 @@
+D:\Program Files\repos\XepLoai\XepLoai\bin\Debug\net8.0\XepLoai.exe
+D:\Program Files\repos\XepLoai\XepLoai\bin\Debug\net8.0\XepLoai.deps.json
+D:\Program Files\repos\XepLoai\XepLoai\bin\Debug\net8.0\XepLoai.runtimeconfig.json
+D:\Program Files\repos\XepLoai\XepLoai\bin\Debug\net8.0\XepLoai.dll
+D:\Program Files\repos\XepLoai\XepLoai\bin\Debug\net8.0\XepLoai.pdb
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.AssemblyInfoInputs.cache
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.AssemblyInfo.cs
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.csproj.CoreCompileInputs.cache
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.dll
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\refint\XepLoai.dll
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.pdb
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\XepLoai.genruntimeconfig.cache
+D:\Program Files\repos\XepLoai\XepLoai\obj\Debug\net8.0\ref\XepLoai.dll
