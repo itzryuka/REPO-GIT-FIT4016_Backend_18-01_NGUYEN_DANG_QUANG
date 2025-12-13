@@ -1,0 +1,14 @@
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\bin\Debug\net8.0\ChuyenDoiSo.exe
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\bin\Debug\net8.0\ChuyenDoiSo.deps.json
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\bin\Debug\net8.0\ChuyenDoiSo.runtimeconfig.json
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\bin\Debug\net8.0\ChuyenDoiSo.dll
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\bin\Debug\net8.0\ChuyenDoiSo.pdb
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.AssemblyInfoInputs.cache
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.AssemblyInfo.cs
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.csproj.CoreCompileInputs.cache
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.dll
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\refint\ChuyenDoiSo.dll
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.pdb
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ChuyenDoiSo.genruntimeconfig.cache
+D:\Program Files\repos\ChuyenDoiSo\ChuyenDoiSo\obj\Debug\net8.0\ref\ChuyenDoiSo.dll

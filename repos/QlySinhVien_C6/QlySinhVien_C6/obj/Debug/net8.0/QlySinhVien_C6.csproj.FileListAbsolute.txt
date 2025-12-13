@@ -1,0 +1,14 @@
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\bin\Debug\net8.0\QlySinhVien_C6.exe
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\bin\Debug\net8.0\QlySinhVien_C6.deps.json
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\bin\Debug\net8.0\QlySinhVien_C6.runtimeconfig.json
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\bin\Debug\net8.0\QlySinhVien_C6.dll
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\bin\Debug\net8.0\QlySinhVien_C6.pdb
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.AssemblyInfoInputs.cache
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.AssemblyInfo.cs
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.csproj.CoreCompileInputs.cache
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.dll
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\refint\QlySinhVien_C6.dll
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.pdb
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\QlySinhVien_C6.genruntimeconfig.cache
+D:\Program Files\repos\QlySinhVien_C6\QlySinhVien_C6\obj\Debug\net8.0\ref\QlySinhVien_C6.dll
